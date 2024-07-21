@@ -1,0 +1,19 @@
+{
+  "name": "webfox-theme",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "vite": "^5.3.4",
+    "vite-plugin-live-reload": "^3.0.3"
+  }
+}
